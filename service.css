@@ -18,12 +18,12 @@ p {
     margin-top: 177px;
     position: absolute;
     left: 730px;
-    z-index: 9;
+    z-index: 8;
 }
 .logo-sevice__background {
     position: absolute;
     left: 965px;
-    z-index: 8;
+    z-index: 7;
 }
 .service-about {
     height: 880px;
